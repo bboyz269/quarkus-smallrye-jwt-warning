@@ -1,0 +1,9 @@
+quarkus:
+  live-reload:
+      instrumentation: true
+  devservices:
+    enabled: false
+  package:
+    type: native
+  native:
+    container-build: true

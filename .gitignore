@@ -1,0 +1,45 @@
+# Gradle
+.gradle/
+build/
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# IntelliJ
+.idea
+*.ipr
+*.iml
+*.iws
+
+# Node
+node_modules/*
+
+# NetBeans
+nb-configuration.xml
+
+# Visual Studio Code
+.vscode
+.factorypath
+
+# Vim
+*.swp
+*.swo
+
+# patch
+*.orig
+*.rej
+
+# Other IDEs and editors
+.c9/
+*.launch
+*.sublime-workspace
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Env
+.env.local
